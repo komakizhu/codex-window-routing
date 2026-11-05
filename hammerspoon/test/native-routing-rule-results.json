@@ -1,0 +1,82 @@
+{
+  "total" : 19,
+  "passed" : 19,
+  "cases" : [
+    {
+      "name" : "automation_claims_only_the_new_window",
+      "passed" : true
+    },
+    {
+      "name" : "automation_refuses_existing_personal_window",
+      "passed" : true
+    },
+    {
+      "name" : "ambiguous_or_expired_open_does_not_guess",
+      "passed" : true
+    },
+    {
+      "name" : "physical_input_during_open_prevents_implicit_claim",
+      "passed" : true
+    },
+    {
+      "name" : "explicit_review_goes_to_user_screen_even_from_codex",
+      "passed" : true
+    },
+    {
+      "name" : "review_can_reuse_a_window_only_with_explicit_authorization",
+      "passed" : true
+    },
+    {
+      "name" : "programmatic_mouse_or_key_events_are_never_human_open_requests",
+      "passed" : true
+    },
+    {
+      "name" : "physical_chrome_dock_open_uses_personal_window_and_keeps_work_on_side",
+      "passed" : true
+    },
+    {
+      "name" : "physical_dock_open_creates_user_window_when_only_agent_window_exists",
+      "passed" : true
+    },
+    {
+      "name" : "physical_finder_reveal_is_review_not_automation",
+      "passed" : true
+    },
+    {
+      "name" : "agent_window_creation_restores_app_main_without_stealing_foreground",
+      "passed" : true
+    },
+    {
+      "name" : "pause_cancels_a_deferred_human_dock_response",
+      "passed" : true
+    },
+    {
+      "name" : "move_exception_is_reported_without_touching_personal_window",
+      "passed" : true
+    },
+    {
+      "name" : "closed_window_registration_is_removed",
+      "passed" : true
+    },
+    {
+      "name" : "module_reload_preserves_an_in_flight_opening",
+      "passed" : true
+    },
+    {
+      "name" : "resume_uses_the_screen_captured_before_the_dock_click",
+      "passed" : true
+    },
+    {
+      "name" : "exact_window_in_a_second_application_process_is_routed",
+      "passed" : true
+    },
+    {
+      "name" : "finder_task_creates_only_a_new_window_at_initial_bounds",
+      "passed" : true
+    },
+    {
+      "name" : "finder_denial_or_pause_never_falls_back_to_an_existing_window",
+      "passed" : true
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "recordedAtUTC": "2026-10-30 15:36:40 UTC",
+  "simulatedRules": {
+    "cases": [
+      {
+        "name": "default_tracks_focus_not_mouse",
+        "passed": true
+      },
+      {
+        "name": "fixed_ignores_focus_and_supports_more_screens",
+        "passed": true
+      },
+      {
+        "name": "menu_selection_and_preferences_survive_restart",
+        "passed": true
+      },
+      {
+        "name": "disconnect_pauses_and_reconnect_uses_uuid",
+        "passed": true
+      },
+      {
+        "name": "mode_changes_move_only_codex_preview_and_controls",
+        "passed": true
+      },
+      {
+        "name": "pause_reload_and_resume_keep_fixed_choice",
+        "passed": true
+      },
+      {
+        "name": "same_name_screens_have_separate_uuid_choices",
+        "passed": true
+      },
+      {
+        "name": "invalid_preferences_do_not_guess_a_fixed_screen",
+        "passed": true
+      },
+      {
+        "name": "pending_move_uses_latest_mode",
+        "passed": true
+      }
+    ],
+    "passed": 9,
+    "total": 9
+  },
+  "liveSettingsAndReload": {
+    "fixedChecks": [
+      {
+        "uuid": "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+        "survivedReload": true,
+        "saved": true,
+        "target": "U27N3G6R4B",
+        "actualTarget": "E761F686-7E3C-41E5-BBEB-3BB07918B7E6"
+      },
+      {
+        "uuid": "532D7571-4385-4C76-AE82-83D54579002B",
+        "survivedReload": true,
+        "saved": true,
+        "target": "Sidecar Display (AirPlay)",
+        "actualTarget": "532D7571-4385-4C76-AE82-83D54579002B"
+      }
+    ],
+    "passed": true,
+    "menuInstalled": true,
+    "focusModeSavedAndReloaded": true,
+    "enabled": true,
+    "final": {
+      "placementMode": "opposite_focus",
+      "targetScreenName": "U27N3G6R4B",
+      "focusedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "screenCount": 2,
+      "targetScreenUUID": "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+      "focusedWindowId": 21530,
+      "rule": "screen_opposite_focused_window"
+    }
+  },
+  "actualHammerspoonRestart": {
+    "passed": true,
+    "placement": {
+      "fixedScreenName": "Sidecar Display (AirPlay)",
+      "targetScreenName": "Sidecar Display (AirPlay)",
+      "placementMode": "fixed_screen",
+      "fixedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "focusedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "screenCount": 2,
+      "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "focusedWindowId": 21548,
+      "rule": "screen_fixed_by_uuid"
+    },
+    "enabled": false,
+    "saved": {
+      "fixedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "mode": "fixed_screen",
+      "fixedScreenName": "Sidecar Display (AirPlay)"
+    }
+  },
+  "fixedPreviewAttempt": {
+    "status": "not_observed",
+    "moves": [],
+    "windows": [],
+    "placement": {
+      "fixedScreenName": "U27N3G6R4B",
+      "targetScreenName": "U27N3G6R4B",
+      "placementMode": "fixed_screen",
+      "fixedScreenUUID": "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+      "focusedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "screenCount": 2,
+      "targetScreenUUID": "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+      "focusedWindowId": 21599,
+      "rule": "screen_fixed_by_uuid"
+    }
+  },
+  "finalState": {
+    "enabled": true,
+    "placement": {
+      "placementMode": "opposite_focus",
+      "targetScreenName": "U27N3G6R4B",
+      "focusedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "screenCount": 2,
+      "targetScreenUUID": "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+      "focusedWindowId": 21599,
+      "rule": "screen_opposite_focused_window"
+    },
+    "menuInstalled": true,
+    "restored": true
+  },
+  "deployment": {
+    "source": "hammerspoon/computer_use_sidecar.lua",
+    "installed": "/Users/example/.hammerspoon/computer_use_sidecar.lua",
+    "backup": "/Users/example/.hammerspoon/backups/computer_use_sidecar.lua.modes-20261030-231145.bak",
+    "installedMatchesSource": true
+  },
+  "menuClickCheck": {
+    "status": "not_verified",
+    "reason": "Computer Use只取得了Hammerspoon调试窗口，未取得状态栏菜单。自调用辅助功能菜单测试超时后已在后台重启恢复。菜单使用的实际处理程序已通过真实设置和重载检查。"
+  },
+  "physicalDisconnectCheck": "simulated_only"
+}

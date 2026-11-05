@@ -1,0 +1,353 @@
+{
+  "obsidianBackground" : {
+    "placement" : {
+      "detail" : 2725,
+      "routed" : true,
+      "frame" : {
+        "y" : 1145,
+        "w" : 1100,
+        "x" : 446,
+        "h" : 800
+      },
+      "windowId" : 2725,
+      "finalScreenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+      "pidLookupCorrection" : "Verified exact private profile with ps -ww after truncated process output",
+      "pid" : 82686
+    },
+    "activatedWithoutPhysicalInput" : true,
+    "events" : [
+      {
+        "at" : 1793422496.775069,
+        "frontBundleID" : "md.obsidian",
+        "details" : [
+
+        ],
+        "physicalSequence" : 500,
+        "event" : "prepared",
+        "focusedWindowId" : 2711
+      },
+      {
+        "at" : 1793422496.7825339,
+        "frontBundleID" : "md.obsidian",
+        "details" : {
+          "mode" : "background"
+        },
+        "physicalSequence" : 500,
+        "event" : "obsidian_before_launch",
+        "focusedWindowId" : 2711
+      },
+      {
+        "at" : 1793422496.8537331,
+        "frontBundleID" : "md.obsidian",
+        "details" : [
+
+        ],
+        "physicalSequence" : 500,
+        "event" : "obsidian_launcher_exit",
+        "focusedWindowId" : 2711
+      },
+      {
+        "at" : 1793422497.6757729,
+        "frontBundleID" : "md.obsidian",
+        "details" : {
+          "bundleID" : "md.obsidian"
+        },
+        "physicalSequence" : 500,
+        "event" : "application_activated",
+        "focusedWindowId" : 2725
+      },
+      {
+        "at" : 1793422527.0883231,
+        "frontBundleID" : "md.obsidian",
+        "details" : {
+          "reason" : "timeout"
+        },
+        "physicalSequence" : 500,
+        "event" : "obsidian_check_failed",
+        "focusedWindowId" : 2725
+      },
+      {
+        "at" : 1793422535.5629351,
+        "frontBundleID" : "md.obsidian",
+        "details" : {
+          "bundleID" : "md.obsidian"
+        },
+        "physicalSequence" : 500,
+        "event" : "application_activated",
+        "focusedWindowId" : 2734
+      },
+      {
+        "at" : 1793422599.301074,
+        "frontBundleID" : "md.obsidian",
+        "physicalSequence" : 500,
+        "event" : "cleaned_up_own_windows",
+        "focusedWindowId" : 2734
+      }
+    ],
+    "pid" : 82686
+  },
+  "finder" : {
+    "createdWindow" : false,
+    "status" : "blocked_by_system_permission"
+  },
+  "observationsOnly" : "AX snapshots cannot prove every rendered frame",
+  "obsidianDirect" : {
+    "placement" : {
+      "detail" : 2622,
+      "routed" : true,
+      "frame" : {
+        "y" : 1145,
+        "w" : 1100,
+        "x" : 446,
+        "h" : 800
+      },
+      "windowId" : 2622,
+      "finalScreenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+      "firstObservedScreenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+      "targetScreenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+      "pid" : 45907
+    },
+    "activatedWithoutPhysicalInput" : true,
+    "events" : [
+      {
+        "at" : 1793422015.2692461,
+        "frontBundleID" : "com.openai.codex",
+        "details" : [
+
+        ],
+        "physicalSequence" : 428,
+        "event" : "prepared",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422015.2783339,
+        "frontBundleID" : "com.openai.codex",
+        "physicalSequence" : 428,
+        "event" : "obsidian_before_launch",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422016.1075931,
+        "frontBundleID" : "md.obsidian",
+        "details" : {
+          "bundleID" : "md.obsidian"
+        },
+        "physicalSequence" : 428,
+        "event" : "application_activated",
+        "focusedWindowId" : 2622
+      },
+      {
+        "at" : 1793422016.157815,
+        "frontBundleID" : "md.obsidian",
+        "details" : {
+          "routed" : true,
+          "pid" : 45907,
+          "windowId" : 2622
+        },
+        "physicalSequence" : 428,
+        "event" : "obsidian_routing_result",
+        "focusedWindowId" : 2622
+      },
+      {
+        "at" : 1793422028.0761161,
+        "frontBundleID" : "com.openai.codex",
+        "details" : {
+          "bundleID" : "com.openai.codex"
+        },
+        "physicalSequence" : 430,
+        "event" : "application_activated",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422048.471482,
+        "frontBundleID" : "com.openai.codex",
+        "details" : [
+
+        ],
+        "physicalSequence" : 434,
+        "event" : "obsidian_process_exit",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422062.531955,
+        "frontBundleID" : "com.openai.codex",
+        "physicalSequence" : 436,
+        "event" : "finder_before_create",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422064.6449039,
+        "frontBundleID" : "com.apple.UserNotificationCenter",
+        "details" : {
+          "bundleID" : "com.apple.UserNotificationCenter"
+        },
+        "physicalSequence" : 436,
+        "event" : "application_activated",
+        "focusedWindowId" : 2640
+      },
+      {
+        "at" : 1793422064.6713221,
+        "frontBundleID" : "com.apple.UserNotificationCenter",
+        "details" : {
+          "result" : {
+            "errorCode" : -1712,
+            "reason" : "finder_create_failed",
+            "ok" : false
+          }
+        },
+        "physicalSequence" : 436,
+        "event" : "finder_result",
+        "focusedWindowId" : 2640
+      },
+      {
+        "at" : 1793422064.956605,
+        "frontBundleID" : "com.openai.codex",
+        "details" : {
+          "bundleID" : "com.openai.codex"
+        },
+        "physicalSequence" : 436,
+        "event" : "application_activated",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422122.2903299,
+        "frontBundleID" : "md.obsidian",
+        "details" : {
+          "bundleID" : "md.obsidian"
+        },
+        "physicalSequence" : 436,
+        "event" : "application_activated",
+        "focusedWindowId" : 2644
+      },
+      {
+        "at" : 1793422123.3514309,
+        "frontBundleID" : "com.openai.codex",
+        "details" : {
+          "bundleID" : "com.openai.codex"
+        },
+        "physicalSequence" : 436,
+        "event" : "application_activated",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422161.6062131,
+        "frontBundleID" : "md.obsidian",
+        "details" : {
+          "bundleID" : "md.obsidian"
+        },
+        "physicalSequence" : 443,
+        "event" : "application_activated",
+        "focusedWindowId" : 2659
+      },
+      {
+        "at" : 1793422163.7814441,
+        "frontBundleID" : "com.openai.codex",
+        "details" : {
+          "bundleID" : "com.openai.codex"
+        },
+        "physicalSequence" : 444,
+        "event" : "application_activated",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422215.892724,
+        "frontBundleID" : "md.obsidian",
+        "details" : {
+          "bundleID" : "md.obsidian"
+        },
+        "physicalSequence" : 444,
+        "event" : "application_activated",
+        "focusedWindowId" : 2671
+      },
+      {
+        "at" : 1793422217.0791359,
+        "frontBundleID" : "com.openai.codex",
+        "details" : {
+          "bundleID" : "com.openai.codex"
+        },
+        "physicalSequence" : 445,
+        "event" : "application_activated",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422261.3102019,
+        "frontBundleID" : "com.apple.systempreferences",
+        "details" : {
+          "bundleID" : "com.apple.systempreferences"
+        },
+        "physicalSequence" : 490,
+        "event" : "application_activated"
+      },
+      {
+        "at" : 1793422277.7861431,
+        "frontBundleID" : "com.openai.codex",
+        "details" : {
+          "bundleID" : "com.openai.codex"
+        },
+        "physicalSequence" : 494,
+        "event" : "application_activated",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422296.1512811,
+        "frontBundleID" : "com.openai.codex",
+        "physicalSequence" : 497,
+        "event" : "finder_before_create",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422298.1852009,
+        "frontBundleID" : "com.apple.UserNotificationCenter",
+        "details" : {
+          "bundleID" : "com.apple.UserNotificationCenter"
+        },
+        "physicalSequence" : 497,
+        "event" : "application_activated",
+        "focusedWindowId" : 2708
+      },
+      {
+        "at" : 1793422298.217155,
+        "frontBundleID" : "com.apple.UserNotificationCenter",
+        "details" : {
+          "result" : {
+            "errorCode" : -1712,
+            "reason" : "finder_create_failed",
+            "ok" : false
+          }
+        },
+        "physicalSequence" : 498,
+        "event" : "finder_result",
+        "focusedWindowId" : 2708
+      },
+      {
+        "at" : 1793422298.525902,
+        "frontBundleID" : "com.openai.codex",
+        "details" : {
+          "bundleID" : "com.openai.codex"
+        },
+        "physicalSequence" : 498,
+        "event" : "application_activated",
+        "focusedWindowId" : 166
+      },
+      {
+        "at" : 1793422377.2676401,
+        "frontBundleID" : "md.obsidian",
+        "details" : {
+          "bundleID" : "md.obsidian"
+        },
+        "physicalSequence" : 500,
+        "event" : "application_activated",
+        "focusedWindowId" : 2711
+      },
+      {
+        "at" : 1793422496.767477,
+        "frontBundleID" : "md.obsidian",
+        "physicalSequence" : 500,
+        "event" : "cleaned_up_own_windows",
+        "focusedWindowId" : 2711
+      }
+    ],
+    "pid" : 45907
+  },
+  "date" : "2026-10-31"
+}

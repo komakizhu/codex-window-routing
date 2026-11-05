@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<title>CU 独立浏览器测试</title>
+<style>body { font: 22px system-ui; padding: 36px; } input, button { font: inherit; } output { display: block; margin-top: 20px; }</style>
+<h1>CU 独立浏览器测试</h1>
+<p>本页只在本机显示测试文字，不保存、不发送数据。</p>
+<label>测试文字 <input id="sample" autocomplete="off"></label>
+<button id="check" type="button">检查测试文字</button>
+<output id="result">等待测试</output>
+<script>
+document.getElementById('check').onclick = () => {
+    document.getElementById('result').textContent = '已读取：' + document.getElementById('sample').value;
+};
+</script>
+</html>

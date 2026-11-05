@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-31",
+  "timezone": "Asia/Shanghai",
+  "placementMode": "fixed_screen",
+  "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+  "coldStartWithoutWindow": true,
+  "chromeStartExitCode": 0,
+  "windowsOnTarget": 3,
+  "windowsTested": 3,
+  "systemWindowIds": [
+    376,
+    387,
+    396
+  ],
+  "browserWindowIds": [
+    2137711167,
+    2137711211,
+    2137711216
+  ],
+  "browserTabIds": [
+    2137711168,
+    2137711212,
+    2137711217
+  ],
+  "frontmostWindowUnchangedDuringTest": true,
+  "focusRoleDuringTest": "AXGroup",
+  "chatTextCaretTypingVerified": false,
+  "appActivationEvents": 0,
+  "codexFocusChangeEvents": 0,
+  "samples": 19,
+  "allTestWindowsClosed": true,
+  "sameScreenPositionRepairLiveTested": true,
+  "crossScreenDriftRepairLiveTested": false,
+  "chromeConnectionAvailableAfterCleanup": false,
+  "hammerspoonScreenRecordingAuthorized": false,
+  "overallAcceptance": "partial; Chrome connection missing after closing final work window; Hammerspoon stopped once for unknown reason",
+  "globalOtherChatsIntegrated": false,
+  "userFixedScreenPreferencePreserved": true
+}

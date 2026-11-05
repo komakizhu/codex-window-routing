@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-31",
+  "timezone": "Asia/Shanghai",
+  "testedRoute": "Chrome management.windows.create with target bounds and focused:false; tab-scoped DOM actions",
+  "windowsTested": 3,
+  "createdOnTarget": 3,
+  "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+  "browserWindowIds": [
+    2137710889,
+    2137710894,
+    2137710899
+  ],
+  "browserTabIds": [
+    2137710890,
+    2137710895,
+    2137710900
+  ],
+  "axWindowIds": [
+    24010,
+    24015,
+    24020
+  ],
+  "existingAXWindowId": 23871,
+  "focusSamples": 17,
+  "appActivationEvents": 0,
+  "codexFocusChangeEvents": 0,
+  "sameChatTextAreaAllSamples": true,
+  "sameMousePositionAllSamples": true,
+  "existingWindowGeometryUnchanged": true,
+  "allTestWindowsClosed": true,
+  "nativeApplicationInputIsolationTested": false,
+  "simultaneousPhysicalUserTypingTested": false,
+  "otherCodexChatsAutomaticallyIntercepted": false
+}

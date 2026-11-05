@@ -1,0 +1,66 @@
+{
+  "total" : 15,
+  "cases" : [
+    {
+      "name" : "only_an_explicit_supported_open_is_dispatched",
+      "passed" : true
+    },
+    {
+      "name" : "gateway_supplies_initial_side_bounds_before_chrome_creation",
+      "passed" : true
+    },
+    {
+      "name" : "browser_ids_are_registered_without_guessing_native_windows_during_user_input",
+      "passed" : true
+    },
+    {
+      "name" : "browser_commit_refuses_old_ids_wrong_bounds_or_a_focused_window",
+      "passed" : true
+    },
+    {
+      "name" : "review_uses_user_screen_even_after_agent_activation",
+      "passed" : true
+    },
+    {
+      "name" : "agent_test_or_preview_cannot_silently_authorize_a_main_screen_window",
+      "passed" : true
+    },
+    {
+      "name" : "registered_new_window_is_moved_once_without_focus",
+      "passed" : true
+    },
+    {
+      "name" : "existing_personal_window_and_wrong_pid_are_refused",
+      "passed" : true
+    },
+    {
+      "name" : "disconnection_and_pause_never_fall_back_to_main",
+      "passed" : true
+    },
+    {
+      "name" : "ambiguous_new_windows_are_not_guessed",
+      "passed" : true
+    },
+    {
+      "name" : "human_input_requires_an_exact_window_id",
+      "passed" : true
+    },
+    {
+      "name" : "obsidian_uses_background_worker_instead_of_demanding_foreground_permission",
+      "passed" : true
+    },
+    {
+      "name" : "an_obsidian_worker_that_is_foreground_is_not_accepted_as_background_success",
+      "passed" : true
+    },
+    {
+      "name" : "finder_uses_a_new_window_with_initial_bounds",
+      "passed" : true
+    },
+    {
+      "name" : "finder_denial_does_not_reuse_or_move_a_personal_window",
+      "passed" : true
+    }
+  ],
+  "passed" : 15
+}

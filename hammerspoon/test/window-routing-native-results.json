@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-02",
+  "branch": "codex/fix-computer-use-mouse",
+  "base": "8b8e54f",
+  "installed": false,
+  "actualHookDispatchVerified": false,
+  "scope": "isolated source gateway + typed CLI; only new automation windows on configured secondary",
+  "applications": {
+    "finder": {
+      "requestID": "1793630968805:1",
+      "foregroundChanged": true,
+      "ok": true,
+      "windowId": 13252,
+      "targetDirectoryVerified": true,
+      "intent": "automation",
+      "movedAfterCreation": false,
+      "firstObservedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "backgroundWindowIndex": 2,
+      "pid": 459,
+      "directoryOrBlankOnly": true
+    },
+    "chrome": {
+      "requestID": "1793630969523:2",
+      "ok": true,
+      "userInputEventsDuringOpen": 0,
+      "windowId": 2137711645,
+      "extensionInstanceId": "a485e4c4-f14b-48f4-a08b-4a2a661f9e1f",
+      "intent": "automation",
+      "tabId": 2137711646,
+      "kind": "browser",
+      "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "focused": false,
+      "directoryOrBlankOnly": true
+    },
+    "obsidian": {
+      "backgroundBootstrapInstalled": true,
+      "requestID": "1793631032660:3",
+      "foregroundChanged": false,
+      "windowId": 13263,
+      "ok": true,
+      "intent": "automation",
+      "movedAfterCreation": false,
+      "firstObservedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "pid": 22428,
+      "directoryOrBlankOnly": true
+    }
+  },
+  "chromeProof": {
+    "windowId": 2137711645,
+    "tabId": 2137711646,
+    "extensionInstanceId": "a485e4c4-f14b-48f4-a08b-4a2a661f9e1f",
+    "bounds": {
+      "alwaysOnTop": false,
+      "focused": false,
+      "height": 800,
+      "id": 2137711645,
+      "incognito": false,
+      "left": 446,
+      "state": "normal",
+      "top": 1145,
+      "type": "normal",
+      "width": 1100
+    }
+  },
+  "existingWindows": {
+    "total": 6,
+    "unchanged": 6,
+    "changed": [],
+    "missing": []
+  },
+  "activationEvents": [],
+  "elapsedSeconds": 134.97,
+  "cleanup": {
+    "ownWorker22428Running": false,
+    "otherWorker87164Running": true
+  },
+  "limits": [
+    "Finder internal focus changed while Finder was already foreground",
+    "no human Dock/Spotlight launch test",
+    "no physical unplug, Space, or PiP live retest",
+    "input isolation is outside the latest acceptance scope"
+  ],
+  "latestBuildLaunch": {
+    "requestID": "1793631924134:1",
+    "ok": true,
+    "pid": 79053,
+    "running": true,
+    "placement": {
+      "intent": "automation",
+      "targetDisplayID": 7,
+      "enabled": true,
+      "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "bounds": {
+        "focused": false,
+        "top": 1145,
+        "state": "normal",
+        "width": 1100,
+        "left": 446,
+        "height": 800
+      },
+      "displayBounds": {
+        "y": 1080,
+        "width": 1366,
+        "x": 406,
+        "height": 1024
+      }
+    },
+    "workerApp": "/Users/example/.codex/worktrees/fix-computer-use-mouse/修复computer use抢鼠标/hammerspoon/test/.native-runtime-window-routing/codex-obsidian-worker/build-1793631923379/Codex Obsidian Workspace.app",
+    "result": {
+      "backgroundBootstrapInstalled": true,
+      "requestID": "1793631924134:1",
+      "foregroundChanged": false,
+      "windowId": 13505,
+      "ok": true,
+      "intent": "automation",
+      "movedAfterCreation": false,
+      "firstObservedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "pid": 79053
+    },
+    "kind": "native_pending",
+    "profile": "/private/tmp/cuw-routing-final-1793631900/obsidian-1793631924134-1/profile",
+    "vault": "/private/tmp/cuw-routing-final-1793631900/obsidian-1793631924134-1/vault",
+    "workerBundleID": "local.codex.ObsidianWorkspace"
+  },
+  "latestBuildPostTest": {
+    "before": {
+      "30242:1414": {
+        "id": 1414,
+        "frame": {
+          "y": 1145,
+          "w": 1100,
+          "x": 446,
+          "h": 800
+        },
+        "screenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+        "pid": 30242
+      },
+      "87164:11966": {
+        "id": 11966,
+        "frame": {
+          "y": 1145,
+          "w": 1100,
+          "x": 446,
+          "h": 800
+        },
+        "screenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+        "pid": 87164
+      },
+      "30242:9285": {
+        "id": 9285,
+        "frame": {
+          "y": 1145,
+          "w": 1100,
+          "x": 446,
+          "h": 800
+        },
+        "screenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+        "pid": 30242
+      },
+      "30242:9278": {
+        "id": 9278,
+        "frame": {
+          "y": 1145,
+          "w": 1100,
+          "x": 446,
+          "h": 800
+        },
+        "screenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+        "pid": 30242
+      },
+      "50345:5738": {
+        "id": 5738,
+        "frame": {
+          "y": 25,
+          "w": 1850,
+          "x": 0,
+          "h": 1055
+        },
+        "screenUUID": "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+        "pid": 50345
+      },
+      "459:13246": {
+        "id": 13246,
+        "frame": {
+          "y": 99,
+          "w": 1189,
+          "x": 363,
+          "h": 909
+        },
+        "screenUUID": "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+        "pid": 459
+      }
+    },
+    "elapsed": 4.583022117614746,
+    "missing": [],
+    "beforePID": 5261,
+    "activations": [],
+    "results": {
+      "1793631924134:1": {
+        "backgroundBootstrapInstalled": true,
+        "requestID": "1793631924134:1",
+        "foregroundChanged": false,
+        "windowId": 13505,
+        "ok": true,
+        "intent": "automation",
+        "movedAfterCreation": false,
+        "firstObservedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+        "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+        "pid": 79053
+      }
+    },
+    "changed": [],
+    "afterPID": 5261,
+    "unchanged": 6
+  },
+  "latestBuildDescriptor": {
+    "bundleID": "local.codex.ObsidianWorkspace",
+    "appPath": "/Users/example/.codex/worktrees/fix-computer-use-mouse/修复computer use抢鼠标/hammerspoon/test/.native-runtime-window-routing/codex-obsidian-worker/build-1793631923379/Codex Obsidian Workspace.app",
+    "executable": "/Users/example/.codex/worktrees/fix-computer-use-mouse/修复computer use抢鼠标/hammerspoon/test/.native-runtime-window-routing/codex-obsidian-worker/build-1793631923379/Codex Obsidian Workspace.app/Contents/MacOS/Obsidian",
+    "backgroundProtocolVersion": 1,
+    "sourceVersion": "1.12.7",
+    "sourceInstallerVersion": "0.14.8",
+    "verifiedVendorModules": 25,
+    "frameworkSharing": "APFS copy-on-write clone",
+    "originalAppUnchanged": true
+  }
+}

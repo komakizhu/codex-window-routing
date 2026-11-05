@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-02",
+  "scope": "Independent empty test vaults only; no personal vault or plugin tests",
+  "startup": {
+    "passed": true,
+    "screenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+    "workerActivationsObserved": 0,
+    "appPath": "/Users/example/.codex/worktrees/fix-computer-use-mouse/修复computer use抢鼠标/hammerspoon/test/.native-runtime-window-safety/codex-obsidian-worker/build-1793625482404/Codex Obsidian Workspace.app"
+  },
+  "nativeInput": {
+    "passed": false,
+    "workerActivationsObserved": 3,
+    "markerSaved": false,
+    "concurrentPhysicalInputEvents": 131,
+    "activationAttribution": "Concurrent user activity; records do not attribute each activation to a specific input source"
+  },
+  "pause": {
+    "passed": true,
+    "hiddenWithoutDiscardingProcess": true
+  },
+  "unavailableDisplay": {
+    "passed": true,
+    "method": "Injected nonexistent native display ID; physical displays were not unplugged"
+  },
+  "cleanup": {
+    "ownedWorkersStillRunning": [],
+    "otherWorker87164StillRunning": true
+  },
+  "installed": false,
+  "fullRequirementSatisfied": false,
+  "latestBuildPausePassed": true
+}

@@ -1,0 +1,3190 @@
+{
+  "records" : [
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412672.390528,
+      "windowId" : 166,
+      "sameElementAsStart" : true,
+      "event" : "started",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 1310.2890625,
+        "y" : 147.73828125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412672.5026901,
+      "windowId" : 166,
+      "sameElementAsStart" : true,
+      "event" : "before_sequential_tasks",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 1310.2890625,
+        "y" : 147.73828125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412685.683888,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1059.98828125,
+        "y" : 136.9765625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412691.429297,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXButton",
+      "mousePosition" : {
+        "x" : 182.08984375,
+        "y" : 656.5546875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412692.0868521,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 351.8984375,
+        "y" : 689.76953125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412694.635659,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 803.5703125,
+        "y" : 750.9296875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412695.8889501,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 774.73828125,
+        "y" : 750.12109375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412696.0271161,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 775.04296875,
+        "y" : 749.8125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412703.19139,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 964.8515625,
+        "y" : 979.8359375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412713.507123,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXWindowCreated",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 956.51953125,
+        "y" : 982.25390625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412728.9013481,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 1011.6484375,
+        "y" : 742.3828125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412729.282166,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 1011.6484375,
+        "y" : 742.3828125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412731.7658801,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 923.23828125,
+        "y" : 713.8203125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412741.155674,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 856.80859375,
+        "y" : 847.92578125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412741.3284409,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 878.26171875,
+        "y" : 934.22265625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412741.9217851,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 887.51953125,
+        "y" : 992.3125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412742.971982,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 886.90234375,
+        "y" : 991.38671875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412743.0992489,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 886.90234375,
+        "y" : 991.38671875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412744.203764,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXWindowCreated",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 886.90234375,
+        "y" : 991.38671875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412744.7345049,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.google.Chrome:AXWindowCreated",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 886.90234375,
+        "y" : 991.38671875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412751.727258,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 886.90234375,
+        "y" : 991.38671875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412751.9003601,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXWebArea",
+      "mousePosition" : {
+        "x" : 886.90234375,
+        "y" : 991.38671875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412758.2196889,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXButton",
+      "mousePosition" : {
+        "x" : 226.375,
+        "y" : 673.3359375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412758.645179,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 279.96484375,
+        "y" : 786.8515625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412759.9730451,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 946.66015625,
+        "y" : 714.26171875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412763.6355901,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1317.34375,
+        "y" : 1025.31640625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412763.9988041,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXMenuItem",
+      "mousePosition" : {
+        "x" : 1329.4140625,
+        "y" : 937.4609375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412764.76594,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1335.3203125,
+        "y" : 925.12109375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412765.380985,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXMenuItem",
+      "mousePosition" : {
+        "x" : 1334.55078125,
+        "y" : 928.27734375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412766.399802,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1332.6015625,
+        "y" : 938.73046875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412766.7539361,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXMenuItem",
+      "mousePosition" : {
+        "x" : 1333.2109375,
+        "y" : 937.1953125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412766.9688921,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXMenuItem",
+      "mousePosition" : {
+        "x" : 1372.87109375,
+        "y" : 869.18359375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412767.117553,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXMenuItem",
+      "mousePosition" : {
+        "x" : 1372.87109375,
+        "y" : 868.56640625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412767.3646841,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXMenuItem",
+      "mousePosition" : {
+        "x" : 1367.78125,
+        "y" : 798.14453125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412767.605823,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXMenuItem",
+      "mousePosition" : {
+        "x" : 1367.47265625,
+        "y" : 789.73046875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412767.899827,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1370.99609375,
+        "y" : 808.921875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412768.2816851,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1427.0390625,
+        "y" : 998.921875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412768.611537,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXSlider",
+      "mousePosition" : {
+        "x" : 1427.0390625,
+        "y" : 998.921875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412769.2042511,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1475.27734375,
+        "y" : 948.4609375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412769.619457,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1574.76953125,
+        "y" : 874.4375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412771.435941,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 998.59375,
+        "y" : 979.90625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412792.102216,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 996.43359375,
+        "y" : 977.62890625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412792.605994,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXWebArea",
+      "mousePosition" : {
+        "x" : 996.43359375,
+        "y" : 977.62890625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412796.695652,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXButton",
+      "mousePosition" : {
+        "x" : 204.421875,
+        "y" : 766.109375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412797.301594,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 224.35546875,
+        "y" : 759.8359375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412804.90623,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "sequence_1_open",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 824.77734375,
+        "y" : 824.69921875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412805.2279789,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXButton",
+      "mousePosition" : {
+        "x" : 818.05078125,
+        "y" : 831.64453125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412815.3567231,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXButton",
+      "mousePosition" : {
+        "x" : 177.4609375,
+        "y" : 795.6875
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412815.917063,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXWindowCreated",
+      "elementWindowId" : 166,
+      "elementRole" : "AXButton",
+      "mousePosition" : {
+        "x" : 181.72265625,
+        "y" : 789.2109375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412816.1962619,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXWindowCreated",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 181.72265625,
+        "y" : 788.28515625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412816.5033989,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 181.10546875,
+        "y" : 787.97265625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412818.124783,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXButton",
+      "mousePosition" : {
+        "x" : 212.40234375,
+        "y" : 731.31640625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412818.5559731,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXWindowCreated",
+      "elementWindowId" : 166,
+      "elementRole" : "AXButton",
+      "mousePosition" : {
+        "x" : 216.7265625,
+        "y" : 832.43359375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412819.025913,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXWindowCreated",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 216.7265625,
+        "y" : 830.890625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1085,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412820.0231299,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 216.7265625,
+        "y" : 828.72265625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1156,
+            "w" : 52,
+            "x" : 467,
+            "h" : 20
+          },
+          "id" : 1262,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412829.6797221,
+      "windowId" : 1186,
+      "sameElementAsStart" : false,
+      "event" : "activated:md.obsidian",
+      "elementWindowId" : 1186,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1346.296875,
+        "y" : 172.34375
+      },
+      "observerActive" : true,
+      "bundleID" : "md.obsidian"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 0,
+            "w" : 0,
+            "x" : 0,
+            "h" : 0
+          },
+          "id" : 1262,
+          "screenUUID" : "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412830.57601,
+      "windowId" : 1186,
+      "sameElementAsStart" : false,
+      "event" : "com.google.Chrome:AXWindowCreated",
+      "elementWindowId" : 1186,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1274.203125,
+        "y" : 109.4453125
+      },
+      "observerActive" : true,
+      "bundleID" : "md.obsidian"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412833.3381591,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "activated:com.openai.codex",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 640.02734375,
+        "y" : 664.328125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412833.6592989,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 324.50390625,
+        "y" : 714.70703125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412848.9581051,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXButton",
+      "mousePosition" : {
+        "x" : 171.98046875,
+        "y" : 720.87890625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412849.668283,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 475.89453125,
+        "y" : 720.0703125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1236,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412852.523304,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "finished",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 1023.4765625,
+        "y" : 738.75390625
+      },
+      "observerActive" : false,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412905.6134281,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "sequence_1_closed_connection_alive",
+      "elementWindowId" : 166,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 1324.81640625,
+        "y" : 688.51953125
+      },
+      "observerActive" : false,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412941.0078199,
+      "windowId" : 596,
+      "sameElementAsStart" : true,
+      "event" : "started",
+      "elementWindowId" : 596,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 1125.2421875,
+        "y" : 1718.42578125
+      },
+      "observerActive" : true,
+      "bundleID" : "com.apple.Safari"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1295,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793412962.4085481,
+      "windowId" : 596,
+      "sameElementAsStart" : false,
+      "event" : "com.google.Chrome:AXWindowCreated",
+      "elementWindowId" : 596,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 942.30078125,
+        "y" : 1418.4375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.apple.Safari"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1295,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793413002.0695441,
+      "windowId" : 596,
+      "sameElementAsStart" : false,
+      "event" : "sequence_2_open",
+      "elementWindowId" : 596,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 945.78515625,
+        "y" : 1495.4140625
+      },
+      "observerActive" : true,
+      "bundleID" : "com.apple.Safari"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1295,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793413006.02985,
+      "sameElementAsStart" : false,
+      "mousePosition" : {
+        "x" : 1882.7265625,
+        "y" : 386.15234375
+      },
+      "event" : "activated:com.endel.endel",
+      "observerActive" : true,
+      "bundleID" : "com.endel.endel"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1295,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793413031.4162941,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "activated:com.openai.codex",
+      "elementWindowId" : 166,
+      "elementRole" : "AXButton",
+      "mousePosition" : {
+        "x" : 1132.140625,
+        "y" : 744.68359375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1295,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793413031.708432,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.openai.codex:AXFocusedUIElementChanged",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1132.140625,
+        "y" : 744.68359375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793413076.1072831,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "sequence_2_closed_connection_alive",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1132.140625,
+        "y" : 744.68359375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1315,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793413102.754971,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "com.google.Chrome:AXWindowCreated",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1132.140625,
+        "y" : 744.68359375
+      },
+      "observerActive" : true,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1315,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793413121.155472,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "finished",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1132.140625,
+        "y" : 744.68359375
+      },
+      "observerActive" : false,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        },
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 1315,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793413131.3117311,
+      "windowId" : 166,
+      "sameElementAsStart" : false,
+      "event" : "sequence_3_open",
+      "elementWindowId" : 166,
+      "elementRole" : "AXGroup",
+      "mousePosition" : {
+        "x" : 1132.140625,
+        "y" : 744.68359375
+      },
+      "observerActive" : false,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "id" : 993,
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 30242
+        }
+      ],
+      "epochSeconds" : 1793413328.9371309,
+      "windowId" : 596,
+      "sameElementAsStart" : false,
+      "event" : "sequence_3_closed_connection_alive",
+      "elementWindowId" : 596,
+      "elementRole" : "AXTextArea",
+      "mousePosition" : {
+        "x" : 1034.75,
+        "y" : 1362.546875
+      },
+      "observerActive" : false,
+      "bundleID" : "com.apple.Safari"
+    }
+  ],
+  "workspaceAXWindowId" : 993,
+  "workspaceBrowserWindowId" : 2137711303,
+  "workspaceTabId" : 2137711304
+}

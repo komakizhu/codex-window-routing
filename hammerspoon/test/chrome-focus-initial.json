@@ -1,0 +1,316 @@
+{
+  "scope" : "inactive Chrome window create, claim, navigation, background DOM fill and click",
+  "records" : [
+    {
+      "chromeWindows" : [
+        {
+          "id" : 23871,
+          "frame" : {
+            "y" : 25,
+            "w" : 1240,
+            "x" : 577,
+            "h" : 999
+          },
+          "screenUUID" : "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+          "pid" : 90599
+        }
+      ],
+      "epochSeconds" : 1793407918.458636,
+      "windowId" : 23638,
+      "event" : "started",
+      "sameElementAsStart" : true,
+      "mousePosition" : {
+        "y" : 375.12109375,
+        "x" : 1880.07421875
+      },
+      "elementRole" : "AXTextArea",
+      "elementWindowId" : 23638,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "id" : 23871,
+          "frame" : {
+            "y" : 25,
+            "w" : 1240,
+            "x" : 577,
+            "h" : 999
+          },
+          "screenUUID" : "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+          "pid" : 90599
+        }
+      ],
+      "epochSeconds" : 1793407918.5252481,
+      "windowId" : 23638,
+      "event" : "before_side_screen_create",
+      "sameElementAsStart" : true,
+      "mousePosition" : {
+        "y" : 375.12109375,
+        "x" : 1880.07421875
+      },
+      "elementRole" : "AXTextArea",
+      "elementWindowId" : 23638,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "id" : 23871,
+          "frame" : {
+            "y" : 25,
+            "w" : 1240,
+            "x" : 577,
+            "h" : 999
+          },
+          "screenUUID" : "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+          "pid" : 90599
+        },
+        {
+          "id" : 24010,
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 90599
+        }
+      ],
+      "epochSeconds" : 1793407924.495306,
+      "windowId" : 23638,
+      "event" : "com.google.Chrome:AXFocusedUIElementChanged",
+      "sameElementAsStart" : true,
+      "mousePosition" : {
+        "y" : 375.12109375,
+        "x" : 1880.07421875
+      },
+      "elementRole" : "AXTextArea",
+      "elementWindowId" : 23638,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "id" : 23871,
+          "frame" : {
+            "y" : 25,
+            "w" : 1240,
+            "x" : 577,
+            "h" : 999
+          },
+          "screenUUID" : "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+          "pid" : 90599
+        },
+        {
+          "id" : 24010,
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 90599
+        }
+      ],
+      "epochSeconds" : 1793407924.643364,
+      "windowId" : 23638,
+      "event" : "com.google.Chrome:AXWindowCreated",
+      "sameElementAsStart" : true,
+      "mousePosition" : {
+        "y" : 375.12109375,
+        "x" : 1880.07421875
+      },
+      "elementRole" : "AXTextArea",
+      "elementWindowId" : 23638,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "id" : 23871,
+          "frame" : {
+            "y" : 25,
+            "w" : 1240,
+            "x" : 577,
+            "h" : 999
+          },
+          "screenUUID" : "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+          "pid" : 90599
+        },
+        {
+          "id" : 24010,
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 90599
+        }
+      ],
+      "epochSeconds" : 1793407930.007483,
+      "windowId" : 23638,
+      "event" : "after_side_screen_create",
+      "sameElementAsStart" : true,
+      "mousePosition" : {
+        "y" : 375.12109375,
+        "x" : 1880.07421875
+      },
+      "elementRole" : "AXTextArea",
+      "elementWindowId" : 23638,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "id" : 23871,
+          "frame" : {
+            "y" : 25,
+            "w" : 1240,
+            "x" : 577,
+            "h" : 999
+          },
+          "screenUUID" : "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+          "pid" : 90599
+        },
+        {
+          "id" : 24010,
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 90599
+        }
+      ],
+      "epochSeconds" : 1793407964.1609149,
+      "windowId" : 23638,
+      "event" : "after_claim_and_navigation",
+      "sameElementAsStart" : true,
+      "mousePosition" : {
+        "y" : 375.12109375,
+        "x" : 1880.07421875
+      },
+      "elementRole" : "AXTextArea",
+      "elementWindowId" : 23638,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "id" : 23871,
+          "frame" : {
+            "y" : 25,
+            "w" : 1240,
+            "x" : 577,
+            "h" : 999
+          },
+          "screenUUID" : "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+          "pid" : 90599
+        },
+        {
+          "id" : 24010,
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 90599
+        }
+      ],
+      "epochSeconds" : 1793408037.4661839,
+      "windowId" : 23638,
+      "event" : "before_background_fill",
+      "sameElementAsStart" : true,
+      "mousePosition" : {
+        "y" : 375.12109375,
+        "x" : 1880.07421875
+      },
+      "elementRole" : "AXTextArea",
+      "elementWindowId" : 23638,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "id" : 23871,
+          "frame" : {
+            "y" : 25,
+            "w" : 1240,
+            "x" : 577,
+            "h" : 999
+          },
+          "screenUUID" : "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+          "pid" : 90599
+        },
+        {
+          "id" : 24010,
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 90599
+        }
+      ],
+      "epochSeconds" : 1793408049.5058279,
+      "windowId" : 23638,
+      "event" : "after_background_fill_and_click",
+      "sameElementAsStart" : true,
+      "mousePosition" : {
+        "y" : 375.12109375,
+        "x" : 1880.07421875
+      },
+      "elementRole" : "AXTextArea",
+      "elementWindowId" : 23638,
+      "bundleID" : "com.openai.codex"
+    },
+    {
+      "chromeWindows" : [
+        {
+          "id" : 23871,
+          "frame" : {
+            "y" : 25,
+            "w" : 1240,
+            "x" : 577,
+            "h" : 999
+          },
+          "screenUUID" : "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+          "pid" : 90599
+        },
+        {
+          "id" : 24010,
+          "frame" : {
+            "y" : 1145,
+            "w" : 1100,
+            "x" : 446,
+            "h" : 800
+          },
+          "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid" : 90599
+        }
+      ],
+      "epochSeconds" : 1793408087.1538999,
+      "windowId" : 23638,
+      "event" : "finished",
+      "sameElementAsStart" : true,
+      "mousePosition" : {
+        "y" : 375.12109375,
+        "x" : 1880.07421875
+      },
+      "elementRole" : "AXTextArea",
+      "elementWindowId" : 23638,
+      "bundleID" : "com.openai.codex"
+    }
+  ]
+}

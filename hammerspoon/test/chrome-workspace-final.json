@@ -1,0 +1,44 @@
+{
+  "windows" : [
+    {
+      "applicationHidden" : false,
+      "id" : 1414,
+      "screenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+      "frame" : {
+        "y" : 1145,
+        "w" : 1100,
+        "x" : 446,
+        "h" : 800
+      },
+      "pid" : 30242,
+      "visible" : true
+    }
+  ],
+  "placement" : {
+    "fixedScreenName" : "Sidecar Display (AirPlay)",
+    "focusedScreenUUID" : "E761F686-7E3C-41E5-BBEB-3BB07918B7E6",
+    "fixedScreenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+    "placementMode" : "fixed_screen",
+    "targetScreenName" : "Sidecar Display (AirPlay)",
+    "chromeWorkspace" : {
+      "tabId" : 2137711403,
+      "groupId" : 1830420957,
+      "windowId" : 2137711402,
+      "pid" : 30242,
+      "extensionInstanceId" : "a485e4c4-f14b-48f4-a08b-4a2a661f9e1f"
+    },
+    "enabled" : true,
+    "screenCount" : 2,
+    "focusedWindowId" : 166,
+    "rule" : "screen_fixed_by_uuid",
+    "targetScreenUUID" : "532D7571-4385-4C76-AE82-83D54579002B",
+    "bounds" : {
+      "focused" : false,
+      "state" : "normal",
+      "top" : 1145,
+      "height" : 800,
+      "left" : 446,
+      "width" : 1100
+    }
+  }
+}

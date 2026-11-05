@@ -1,0 +1,276 @@
+{
+  "date": "2026-11-02",
+  "installed": true,
+  "backup": "/Users/example/.codex/window-routing/backups/1793633555523/manifest.json",
+  "status": {
+    "gatewayLoaded": true,
+    "safetySuspended": false,
+    "ok": true,
+    "gateway": {
+      "activeOwnedWorkers": 1,
+      "placement": {
+        "intent": "automation",
+        "targetDisplayID": 7,
+        "enabled": true,
+        "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+        "bounds": {
+          "focused": false,
+          "top": 1145,
+          "state": "normal",
+          "width": 1100,
+          "left": 446,
+          "height": 800
+        },
+        "displayBounds": {
+          "y": 1080,
+          "width": 1366,
+          "x": 406,
+          "height": 1024
+        }
+      },
+      "gatewayReady": true,
+      "assignmentEnabled": true,
+      "safetySuspended": false
+    },
+    "assignmentEnabled": true
+  },
+  "sourceFilesMatch": {
+    "init.lua": true,
+    "computer_use_sidecar.lua": true,
+    "window_gateway.lua": true,
+    "routing/window_cli.mjs": true,
+    "routing/window_api.lua": true,
+    "routing/guard.mjs": true,
+    "routing/package.json": true,
+    "routing/package-lock.json": true,
+    "browser/chrome_work_window.mjs": true,
+    "obsidian/build_worker.mjs": true,
+    "obsidian/background.cjs": true
+  },
+  "unrelatedGlobalRulesPreserved": true,
+  "worker": {
+    "requestID": "1793633721674:38",
+    "ok": true,
+    "pid": 97632,
+    "running": true,
+    "placement": {
+      "intent": "automation",
+      "targetDisplayID": 7,
+      "enabled": true,
+      "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "bounds": {
+        "focused": false,
+        "top": 1145,
+        "state": "normal",
+        "width": 1100,
+        "left": 446,
+        "height": 800
+      },
+      "displayBounds": {
+        "y": 1080,
+        "width": 1366,
+        "x": 406,
+        "height": 1024
+      }
+    },
+    "workerApp": "/Users/example/.hammerspoon/codex-obsidian-worker/build-1793633555726/Codex Obsidian Workspace.app",
+    "result": {
+      "backgroundBootstrapInstalled": true,
+      "requestID": "1793633721674:38",
+      "foregroundChanged": false,
+      "windowId": 13593,
+      "ok": true,
+      "intent": "automation",
+      "movedAfterCreation": false,
+      "firstObservedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+      "pid": 97632
+    },
+    "kind": "native_pending",
+    "profile": "/Users/example/.hammerspoon/codex-window-runtime/obsidian-1793633721674-38/profile",
+    "vault": "/Users/example/.hammerspoon/codex-window-runtime/obsidian-1793633721674-38/vault",
+    "workerBundleID": "local.codex.ObsidianWorkspace"
+  },
+  "cleanup": {
+    "stopRequested": true,
+    "requestID": "1793633721674:38",
+    "ok": true,
+    "pid": 97632
+  },
+  "existingWindows": {
+    "total": 7,
+    "unchanged": 7,
+    "changes": {}
+  },
+  "hook": {
+    "trustStatus": "trusted",
+    "metadata": {
+      "key": "/Users/example/.codex/hooks.json:pre_tool_use:0:0",
+      "eventName": "preToolUse",
+      "handlerType": "command",
+      "command": "/Users/example/.nvm/versions/node/v24.12.0/bin/node /Users/example/.codex/window-routing/current/routing/guard.mjs",
+      "async": false,
+      "matcher": "^(Bash|.*(?:exec_command|shell_command)|.*cua_repl.*)$",
+      "timeoutSec": 10,
+      "statusMessage": "检查 Codex 副屏开窗",
+      "additionalContextLimit": null,
+      "sourcePath": "/Users/example/.codex/hooks.json",
+      "source": "user",
+      "pluginId": null,
+      "environmentId": null,
+      "displayOrder": 0,
+      "enabled": true,
+      "isManaged": false,
+      "currentHash": "sha256:2dcd63dcd07698fae68789910aef3241e1f3a9bea7cc21e67ae83e005b20cd24",
+      "trustStatus": "trusted"
+    },
+    "configurationRecognized": true,
+    "configurationErrors": [],
+    "actualShellProbeBlocked": true,
+    "actualCuaProbeBlocked": true,
+    "actualHookDispatchVerified": true,
+    "probeSideEffects": "none; both probes blocked before execution",
+    "shellProbe": {
+      "command": "/usr/bin/open --help",
+      "result": "Command blocked by PreToolUse hook",
+      "reason": "此命令会绕过 Codex/个人开窗分流"
+    },
+    "cuaProbe": {
+      "code": "var routingGuardProbeAfterTrust = cua.getApp; nodeRepl.write('UNGUARDED_CUA_PROBE_AFTER_TRUST_REACHED');",
+      "result": "Tool call blocked by PreToolUse hook",
+      "reason": "开窗方法必须直接调用，不能建立未经检查的别名。"
+    }
+  },
+  "beforeTrustHookState": {
+    "trustStatus": "untrusted",
+    "actualShellProbeBlocked": false,
+    "actualCuaProbeBlocked": false,
+    "probeSideEffects": "none; open --help returned usage, Cua only read getApp function reference",
+    "configurationRecognized": true,
+    "configurationErrors": [],
+    "metadata": {
+      "key": "/Users/example/.codex/hooks.json:pre_tool_use:0:0",
+      "eventName": "preToolUse",
+      "handlerType": "command",
+      "command": "/Users/example/.nvm/versions/node/v24.12.0/bin/node /Users/example/.codex/window-routing/current/routing/guard.mjs",
+      "async": false,
+      "matcher": "^(Bash|.*(?:exec_command|shell_command)|.*cua_repl.*)$",
+      "timeoutSec": 10,
+      "statusMessage": "检查 Codex 副屏开窗",
+      "additionalContextLimit": null,
+      "sourcePath": "/Users/example/.codex/hooks.json",
+      "source": "user",
+      "pluginId": null,
+      "environmentId": null,
+      "displayOrder": 0,
+      "enabled": true,
+      "isManaged": false,
+      "currentHash": "sha256:2dcd63dcd07698fae68789910aef3241e1f3a9bea7cc21e67ae83e005b20cd24",
+      "trustStatus": "untrusted"
+    }
+  },
+  "postTrustVerification": {
+    "chrome": {
+      "proof": {
+        "windowId": 2137711663,
+        "tabId": 2137711664,
+        "extensionInstanceId": "a485e4c4-f14b-48f4-a08b-4a2a661f9e1f",
+        "bounds": {
+          "alwaysOnTop": false,
+          "focused": false,
+          "height": 800,
+          "id": 2137711663,
+          "incognito": false,
+          "left": 446,
+          "state": "normal",
+          "top": 1145,
+          "type": "normal",
+          "width": 1100
+        }
+      },
+      "result": {
+        "requestID": "1793634265422:40",
+        "ok": true,
+        "userInputEventsDuringOpen": 4,
+        "windowId": 2137711663,
+        "extensionInstanceId": "a485e4c4-f14b-48f4-a08b-4a2a661f9e1f",
+        "intent": "automation",
+        "tabId": 2137711664,
+        "kind": "browser",
+        "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+        "focused": false
+      },
+      "closedOwnTab": true,
+      "existingWindows": {
+        "total": 3,
+        "unchanged": 3
+      }
+    },
+    "native": {
+      "worker": {
+        "requestID": "1793634373139:41",
+        "ok": true,
+        "pid": 61221,
+        "running": true,
+        "placement": {
+          "intent": "automation",
+          "targetDisplayID": 7,
+          "enabled": true,
+          "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+          "bounds": {
+            "focused": false,
+            "top": 1145,
+            "state": "normal",
+            "width": 1100,
+            "left": 446,
+            "height": 800
+          },
+          "displayBounds": {
+            "y": 1080,
+            "width": 1366,
+            "x": 406,
+            "height": 1024
+          }
+        },
+        "workerApp": "/Users/example/.hammerspoon/codex-obsidian-worker/build-1793633555726/Codex Obsidian Workspace.app",
+        "result": {
+          "backgroundBootstrapInstalled": true,
+          "requestID": "1793634373139:41",
+          "foregroundChanged": false,
+          "windowId": 13789,
+          "ok": true,
+          "intent": "automation",
+          "movedAfterCreation": false,
+          "firstObservedScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+          "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+          "pid": 61221
+        },
+        "kind": "native_pending",
+        "profile": "/Users/example/.hammerspoon/codex-window-runtime/obsidian-1793634373139-41/profile",
+        "vault": "/Users/example/.hammerspoon/codex-window-runtime/obsidian-1793634373139-41/vault",
+        "workerBundleID": "local.codex.ObsidianWorkspace"
+      },
+      "ownershipCheck": {
+        "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+        "requestID": "1793634373139:41",
+        "windowId": 13789,
+        "ok": true,
+        "pid": 61221
+      },
+      "cleanup": {
+        "stopRequested": true,
+        "requestID": "1793634373139:41",
+        "ok": true,
+        "pid": 61221,
+        "runningAfterStop": false
+      }
+    },
+    "expiredAttempt": {
+      "requestID": "1793634102983:39",
+      "reason": "expired_or_wrong_browser_request",
+      "createdOnSecondary": true,
+      "closedOwnTab": true,
+      "resolution": "preload helper before getting a fresh request; repeat completed successfully"
+    }
+  }
+}

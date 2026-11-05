@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-02",
+  "status": "partial",
+  "architecture": "explicit_gateway_plus_existing_hammerspoon",
+  "targetScreenUUID": "532D7571-4385-4C76-AE82-83D54579002B",
+  "chrome": {
+    "taskWindows": 3,
+    "pageChecksPassed": 3,
+    "taskWindowsClosed": true,
+    "foregroundChangedSamples": 0,
+    "inputElementObserved": false,
+    "nativeInputTypingNotProven": true,
+    "browserCommitPassed": true,
+    "userNormalWindow": {
+      "evidence": "user_report",
+      "result": "main_screen",
+      "time": "latest user reply in this chat"
+    }
+  },
+  "finder": {
+    "taskWindows": 3,
+    "passed": 3,
+    "foregroundChangedSamples": 0,
+    "sameInputElementAtEnd": true,
+    "allTestWindowsClosed": true
+  },
+  "obsidian": {
+    "windowOnTargetScreen": true,
+    "foregroundStolen": true,
+    "physicalInputEventsDuringActivation": 0,
+    "onlyBlankTestVaultUsed": true,
+    "backgroundDefaultLaunchBlocked": true,
+    "testPID": 99118
+  },
+  "personalProtection": {
+    "existingWindowRuleChecks": "passed in isolated simulation",
+    "userMainWindowChromeOnly": "confirmed by user",
+    "finderAndObsidianOrdinaryManualOpens": "not physically tested; user requested automatic tests",
+    "allLaunchMethodsCovered": false
+  },
+  "correction": {
+    "unsolicitedMainScreenProbeWasCreated": true,
+    "probeClosed": true,
+    "manualCallbacksRemoved": true,
+    "newGuard": "review/user requires explicit userRequestedMain authorization; tests and previews stay automation"
+  },
+  "checks": {
+    "gateway": {
+      "passed": 14,
+      "total": 14
+    },
+    "browser": {
+      "passed": 15,
+      "total": 15
+    },
+    "globalRules": {
+      "passed": 2,
+      "total": 2
+    }
+  },
+  "scopeAudit": {
+    "noteMetadataChanges": 1,
+    "notesMissing": 0,
+    "configurationChanges": 1,
+    "pluginFileMetadataChanges": 0,
+    "observedChangesNotReverted": true,
+    "originalCliSocketExistencePreserved": true,
+    "personalNoteContentsNotReadOrWrittenByTestFactories": true
+  },
+  "pip": "existing positioning rules retained, not re-tested in this round",
+  "longTermRecommendation": "only tested Chrome/Finder entry points; no blanket native GUI approval",
+  "noCommitMergePush": true
+}

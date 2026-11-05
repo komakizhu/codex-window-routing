@@ -1,0 +1,41 @@
+# Window snapshots and runtime logs may contain private app/window details.
+/test/*.json
+/test/*.jsonl
+
+# Curated acceptance results contain no personal app titles, URLs, or input.
+!/test/placement-mode-results.json
+!/test/chrome-background-results.json
+!/test/chrome-focus-initial.json
+!/test/chrome-focus-helper.json
+!/test/chrome-fixed-background.json
+!/test/chrome-routing-results.json
+!/test/chrome-workspace-observation.json
+!/test/chrome-workspace-results.json
+!/test/chrome-workspace-final.json
+!/test/chrome-intent-routing-results.json
+!/test/native-routing-rule-results.json
+!/test/native-window-results.json
+!/test/obsidian-recovery-plan.json
+!/test/obsidian-incident-results.json
+!/test/lightweight-gateway-rule-results.json
+!/test/lightweight-results.json
+!/test/obsidian-background-results.json
+!/test/window-safety-rule-results.json
+!/test/window-safety-native-results.json
+!/test/window-routing-native-results.json
+!/test/window-routing-install-results.json
+!/test/release-build-results.json
+
+# Screen Recording was unavailable; this diagnostic only contains wallpaper.
+/test/chrome-side-screen-capture-unavailable.png
+
+# Locally built test app; keep its source files, not the compiled bundle.
+/test/CUWindowProbe.app/
+/test/.native-runtime-*/
+/test/.native-runtime-lightweight-current
+/test/.native-runtime-obsidian-background-current
+/test/.obsidian-incident-private/
+
+# Historical copies of the fixed-screen prototype are kept out of the release.
+/test_only_mover.lua*
+/test/test_only_mover.*.lua
